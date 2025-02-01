@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=/home/idk_david16/csc308/barest2/Cargo.toml
+cargo:rustc-link-search=native=/home/idk_david16/csc308/barest2/target/bootimage/bootloader/x86_64-bootloader/release/build/bootloader-7ff7e5493bfa8617/out
+cargo:rustc-link-lib=static=kernel_bin-barest2
+cargo:rerun-if-env-changed=KERNEL
+cargo:rerun-if-env-changed=KERNEL_MANIFEST
+cargo:rerun-if-changed=/home/idk_david16/csc308/barest2/target/x86_64-bootimage-barest2/debug/barest2
+cargo:rerun-if-changed=build.rs
