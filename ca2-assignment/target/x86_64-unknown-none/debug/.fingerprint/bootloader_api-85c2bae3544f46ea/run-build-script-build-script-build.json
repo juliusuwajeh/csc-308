@@ -1,0 +1,1 @@
+{"rustc":6294317376553613522,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[14018797784064647026,"build_script_build",false,10083047326447624188]],"local":[{"RerunIfChanged":{"output":"x86_64-unknown-none/debug/build/bootloader_api-85c2bae3544f46ea/output","paths":["build.rs","Cargo.toml"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

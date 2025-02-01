@@ -1,0 +1,5 @@
+[workspace]
+members = ["kernel_with_bootloader"]
+
+[unstable]
+bindeps = true
